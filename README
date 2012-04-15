@@ -1,0 +1,4 @@
+ATtiny85 bubbles machine
+
+* pin 0 is used for the servo, which is moved 90 degress up and down
+* pin 1 is used for the fan, which is turn on when the servo move up and then turned off
